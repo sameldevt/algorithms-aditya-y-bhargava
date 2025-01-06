@@ -1,7 +1,6 @@
-package br.com.samiac.algorithms_aditya_y_bhargava;
+package src;
 
-import br.com.samiac.algorithms_aditya_y_bhargava.binary_search.BinarySearch;
-import br.com.samiac.algorithms_aditya_y_bhargava.utils.Data;
+import src.binary_search.BinarySearch;
 
 import java.util.ArrayList;
 import java.util.List;

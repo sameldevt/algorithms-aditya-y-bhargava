@@ -1,4 +1,4 @@
-package br.com.samiac.algorithms_aditya_y_bhargava.utils;
+package src.utils;
 
 import java.io.IOException;
 import java.nio.file.Paths;

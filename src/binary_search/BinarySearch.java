@@ -1,4 +1,4 @@
-package br.com.samiac.algorithms_aditya_y_bhargava.binary_search;
+package src.binary_search;
 
 import java.util.List;
 
